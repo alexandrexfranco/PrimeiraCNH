@@ -1,0 +1,8 @@
+{
+  "name": "Primeira CNH",
+  "description": "Sistema web mobile de gestão de aulas práticas de direção veicular.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Primeira CNH",
+  "short_name": "Primeira CNH",
+  "description": "App Primeira CNH",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/LogoGV3.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png"
+    }
+  ]
+}
